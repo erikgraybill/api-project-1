@@ -1,0 +1,37 @@
+[
+  	{
+		"location_name": "Westgate Building",
+		"start_time": "2022-01-24T16:00-05:00",
+		"end_time": "2022-01-24T17:15-05:00",
+		"details": "Room E208; HCDD 340: HUMAN-CENTERED DESIGN FOR MOBILE COMPUTING",
+		"num_order": 1
+	},
+	{
+		"location_name": "Wartik Lab",
+		"start_time": "2022-01-25T12:05-05:00",
+		"end_time": "2022-01-25T13:20-05:00",
+		"details": "Room 108; IST 402: MICRO FRONTEND WEB DEVELOPMENT",
+		"num_order": 2
+	},
+	{
+		"location_name": "Westgate Building",
+		"start_time": "2022-01-25T13:35-05:00",
+		"end_time": "2022-01-25T14:50-05:00",
+		"details": "Room W201; IST 411: DISTRIBUTED-OBJECT COMPUTING",
+		"num_order": 3
+	},
+	{
+		"location_name": "Huck Life Sciences Building",
+		"start_time": "2022-01-25T15:05-05:00",
+		"end_time": "2022-01-25T16:20-05:00",
+		"details": "Room 006; ENGL 202C: EFFECTIVE WRITING: TECHNICAL WRITING",
+		"num_order": 4
+	},
+	{
+		"location_name": "Willard Building",
+		"start_time": "2022-01-25T16:35-05:00",
+		"end_time": "2022-01-25T17:50-05:00",
+		"details": "Room 064; SRA 221: OVERVIEW OF INFORMATION SECURITY",
+		"num_order": 5
+	}
+]
